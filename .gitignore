@@ -1,2 +1,14 @@
+# Ігноруємо системні файли macOS
+.DS_Store
+.Trash
+.zsh_sessions
+Library/
+Desktop/
+Documents/
+Movies/
+Music/
+Pictures/
+.oh-my-zsh
+
 .idea
 .vscode
